@@ -1,0 +1,9 @@
+.layout {
+    width: 100vw;
+    height: 100vh;
+}
+.logo {
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}

@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { getToken } from '@/libs/util'
 import qs from 'qs'
-import { message } from 'ant-design-vue'
+import { message } from 'antd'
 import apiUrl from './apiUrl'
 
 const instance = axios.create({
